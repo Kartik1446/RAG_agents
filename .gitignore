@@ -1,0 +1,23 @@
+# Environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.exe
+*.spec
+venv/
+env/
+ENV/
+*.venv
+
+# Database
+chroma_langchain_db/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
